@@ -33,8 +33,8 @@ const Role = styled.div`
   }
 `;
 const Company = styled.div`
-  font-size: 14px;
-  font-weight: 500px;
+  font-size: 20px;
+  font-weight: 600px;
   color: ${({ theme }) => theme.text_secondary + 99};
 
   @media only screen and (max-width: 768px) {

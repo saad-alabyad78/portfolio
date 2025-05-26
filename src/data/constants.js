@@ -122,13 +122,21 @@ export const experiences = [
   {
     id: 0,
     role: "Backend Developer",
+    company: "Bit Coding",
+    date: "May 2025 - Present",
+    desc: "Working As Laravel Backend Developer.",
+    skills: ["Laravel", "PHP", "Filament", "CI/CD", "REST APIs"],
+  },
+  {
+    id: 1,
+    role: "Backend Developer",
     company: "ICR Company",
     date: "Jun 2024 - Apr 2025",
     desc: "Built and maintained robust backend systems using Laravel and MySQL. Led API development, integrated payment gateways, and ensured server stability with Linux and Docker deployments. Collaborated cross-functionally across product and design teams.",
     skills: ["Laravel", "PHP", "MySQL", "Linux", "Docker", "REST APIs"],
   },
   {
-    id: 1,
+    id: 2,
     role: "Backend Developer (Freelance)",
     company: "Al Hadara Group",
     date: "Sep 2023 - Oct 2023",
